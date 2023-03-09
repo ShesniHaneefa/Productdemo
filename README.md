@@ -20,3 +20,20 @@ Features:
 4. Delete
 
 ```
+Running the project:
+
+Migrate :
+```
+> cd movieapp
+> python manage.py migrate
+```
+
+Make Admin User :
+```
+> python manage.py createsuperuser
+```
+
+runserver :
+
+> cd movieapp 
+> python manage.py runserver  
