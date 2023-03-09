@@ -37,3 +37,12 @@ runserver :
 
 > cd movieapp 
 > python manage.py runserver  
+
+Technologies Used:
+```
+1.Django
+2.HTML
+3.CSS
+```
+
+
