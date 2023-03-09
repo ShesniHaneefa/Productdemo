@@ -34,9 +34,10 @@ Make Admin User :
 ```
 
 runserver :
-
+```
 > cd movieapp 
 > python manage.py runserver  
+```
 
 Technologies Used:
 ```
